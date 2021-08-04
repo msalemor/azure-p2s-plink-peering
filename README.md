@@ -1,4 +1,4 @@
-# azure-p2s-plink-peering
+# Azure Connecting over P2S to Private Link PaaS Service over a Peer Network
 Connecting to a PaaS service in spoke over a point-to-site VPN in a hub
 
 ## Problem statement
