@@ -1,4 +1,4 @@
-# Azure Connecting over P2S to Private Link PaaS Service over a Peer Network
+# Azure Connecting over P2S to Private Link PaaS Service over a Peered Network
 Connecting to a PaaS service in spoke over a point-to-site VPN in a hub
 
 ## Problem statement
